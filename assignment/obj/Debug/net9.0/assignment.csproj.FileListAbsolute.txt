@@ -1,0 +1,14 @@
+C:\Users\1\source\repos\ADV2\assignment\bin\Debug\net9.0\assignment.exe
+C:\Users\1\source\repos\ADV2\assignment\bin\Debug\net9.0\assignment.deps.json
+C:\Users\1\source\repos\ADV2\assignment\bin\Debug\net9.0\assignment.runtimeconfig.json
+C:\Users\1\source\repos\ADV2\assignment\bin\Debug\net9.0\assignment.dll
+C:\Users\1\source\repos\ADV2\assignment\bin\Debug\net9.0\assignment.pdb
+C:\Users\1\source\repos\ADV2\assignment\obj\Debug\net9.0\assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\ADV2\assignment\obj\Debug\net9.0\assignment.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\ADV2\assignment\obj\Debug\net9.0\assignment.AssemblyInfo.cs
+C:\Users\1\source\repos\ADV2\assignment\obj\Debug\net9.0\assignment.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\ADV2\assignment\obj\Debug\net9.0\assignment.dll
+C:\Users\1\source\repos\ADV2\assignment\obj\Debug\net9.0\refint\assignment.dll
+C:\Users\1\source\repos\ADV2\assignment\obj\Debug\net9.0\assignment.pdb
+C:\Users\1\source\repos\ADV2\assignment\obj\Debug\net9.0\assignment.genruntimeconfig.cache
+C:\Users\1\source\repos\ADV2\assignment\obj\Debug\net9.0\ref\assignment.dll
